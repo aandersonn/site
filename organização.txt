@@ -1,0 +1,8 @@
+TAGS:
+tr, td, button
+
+STYLO:
+hover
+
+SCRIPT:
+onclick=insert
